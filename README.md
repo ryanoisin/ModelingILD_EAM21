@@ -12,7 +12,7 @@ The workshop will primarily use the `R` programming language, for which we recom
 
 There are three main folders in the repository
 - `setup` contains materials which participants should engage with **before** the start of the lab, relating to installing and checking relevant software packages
-- `lab` contains the actual lab materials, including rmarkdown files and data files.
+- `lab` contains the actual lab materials, including rmarkdown files and data files. You can follow the lab by opening the `.html` file in each subfolder and following the instructions
 - `lecture` contains lecture slides used during the workshop
 
 For more information please contact **o.ryan@uu.nl**

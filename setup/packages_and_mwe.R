@@ -18,6 +18,7 @@ install.packages("expm")
 install.packages("pkgconfig")
 install.packages("ggplot2")
 install.packages("devtools") # you need this to install packages from github
+# Note - you also need Rtools to use devtools: https://cran.r-project.org/bin/windows/Rtools/
 devtools::install_github("ryanoisin/ctnet")
 install.packages("qgraph")
 
